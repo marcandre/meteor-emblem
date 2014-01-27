@@ -3,9 +3,7 @@
   "description": "a concise and beautiful alternative to Handlebars.js",
   "homepage": "https://github.com/marcandre/meteor-emblem",
   "author": "Marc-André Lafortune <meteor-emblem@marc-andre.ca>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/marcandre/meteor-emblem.git",
-  "packages": {
-    "handlebars": ""
-  }
+  "packages": {}
 }
