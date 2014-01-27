@@ -14,6 +14,8 @@ $ mrt add emblem
 
 Files ending in `.emblem` will be treated as emblem files and have the same functionality as their Handlebars equivalent.
 
+The todoMVC project [using emblem](https://github.com/marcandre/todomvc/tree/emblem/labs/architecture-examples/meteor_emblem) can be used as a example app.
+
 ## Contributing
 
 There's a problem with testing using `mrt test-packages`.
