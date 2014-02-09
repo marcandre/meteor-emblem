@@ -2,6 +2,8 @@
 
 This package brings [Emblem](http://emblemjs.com/) to Meteor.
 
+The future of this package [is uncertain](https://github.com/meteor/meteor/pull/1790#issuecomment-33437635).
+
 ## Installation
 
 Meteor Emblem can be installed with [Meteorite](https://github.com/oortcloud/meteorite/). From inside a Meteorite-managed app:
