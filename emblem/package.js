@@ -13,7 +13,8 @@ Package._transitional_registerBuildPlugin({
   sources: [
     'plugin/emblem-scanner.coffee',
     'plugin/handlebars-extension.js'
-  ]
+  ],
+  npmDependencies:{"handlebars":"1.3.0","emblem":"0.3.11"}
 });
 
 Package.on_use(function(api) {
